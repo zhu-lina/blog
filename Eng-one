@@ -1,17 +1,16 @@
 \documentclass{article}
 \begin{document}
-            On the development of artificial intelligence
-  
-     According  to  this  article  Artificial  intelligence:  you  don't  know  the  joys  and  sorrows.
-Artificial  intelligence  has  both  advantages  and  disadvantages  in  its  development.  On  the 
-one  hand,  we  are  entering  an age  of  accelerated  development  of  artificial  and  robotic  
-technology.  Digital machines  have  escaped  their  narrow  confines  and  started  to  demonstrate
-broad  abilities  in  pattern  recognition,  complex  communication,  and  other domains  that  used
-to  be  only  human. We’ve  recently  seen great progress  in  natural  language  processing,  machine
-learning ,  computer  vision, simultaneous  localization,  mapping,  and  many  other  areas. On  the 
-other hand,  complete  artificial  intelligence  can  endanger  humans. Therefore,  artificial intelligence
-should  be  regulated  by  the  state  and  international community.  This  is,  of course,  only  a 
-bold  guess. I  think  artificial  intelligence  needs  to  be  learnt  a  lot,  and  we  need  to
-further  explore  it.
-
-\ end{document}
+         On the development of artificial intelligence\\
+Through artificial intelligence: you don't know the joy and sadness of this article，I
+think  Artificial  intelligence  has  both  advantages  and  disadvantages  in its 
+development.  On  the  one  hand, we  are  entering  an age  of  accelerated  development
+of  artificial  and  robotic  technology.  Digital machines  have  escaped  their  narrow 
+confines  and  started  to  demonstrate broad  abilities  in  pattern recognition, complex
+communication,  and  other domains  that  used  to  be  only human. We’ve  recently  seen
+great progress  in  natural  language  processing,  machine learning ,  computer  vision,
+simultaneous  localization,  mapping,  and  many  other areas. On  the  other hand, complete
+artificial  intelligence  can  endanger  humans.Therefore,  artificial intelligence  should 
+be  regulated  by  the  state  and  international community.  This  is,  of course,  only  
+a  bold  guess. I  think  artificial  intelligence needs  to  be  learnt  a  lot,  and  we  
+need  to  further  explore  it.
+\end{document}
